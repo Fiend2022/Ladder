@@ -1,0 +1,83 @@
+﻿"Ladder.exe" (Win32). Загружено "C:\Users\Илья\source\repos\Ladder\Debug\Ladder.exe". Символы загружены.
+"Ladder.exe" (Win32). Загружено "C:\Windows\SysWOW64\ntdll.dll". 
+"Ladder.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel32.dll". 
+"Ladder.exe" (Win32). Загружено "C:\Windows\SysWOW64\KernelBase.dll". 
+"Ladder.exe" (Win32). Загружено "C:\Users\Илья\source\repos\Ladder\Debug\sfml-graphics-d-2.dll". Символы загружены.
+"Ladder.exe" (Win32). Загружено "C:\Users\Илья\source\repos\Ladder\Debug\sfml-system-d-2.dll". Символы загружены.
+"Ladder.exe" (Win32). Загружено "C:\Users\Илья\source\repos\Ladder\Debug\sfml-window-d-2.dll". Символы загружены.
+"Ladder.exe" (Win32). Загружено "C:\Windows\SysWOW64\gdi32.dll". 
+"Ladder.exe" (Win32). Загружено "C:\Windows\SysWOW64\win32u.dll". 
+"Ladder.exe" (Win32). Загружено "C:\Windows\SysWOW64\gdi32full.dll". 
+"Ladder.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcp_win.dll". 
+"Ladder.exe" (Win32). Загружено "C:\Windows\SysWOW64\ucrtbase.dll". 
+"Ladder.exe" (Win32). Загружено "C:\Windows\SysWOW64\user32.dll". 
+"Ladder.exe" (Win32). Загружено "C:\Windows\SysWOW64\advapi32.dll". 
+"Ladder.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcrt.dll". 
+"Ladder.exe" (Win32). Загружено "C:\Windows\SysWOW64\sechost.dll". 
+"Ladder.exe" (Win32). Загружено "C:\Windows\SysWOW64\rpcrt4.dll". 
+"Ladder.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcp140d.dll". 
+"Ladder.exe" (Win32). Загружено "C:\Windows\SysWOW64\vcruntime140d.dll". 
+"Ladder.exe" (Win32). Загружено "C:\Windows\SysWOW64\ucrtbased.dll". Символы загружены.
+"Ladder.exe" (Win32). Загружено "C:\Users\Илья\source\repos\Ladder\Debug\freetyped.dll". Символы загружены.
+"Ladder.exe" (Win32). Загружено "C:\Windows\SysWOW64\opengl32.dll". 
+"Ladder.exe" (Win32). Загружено "C:\Windows\SysWOW64\combase.dll". 
+"Ladder.exe" (Win32). Загружено "C:\Windows\SysWOW64\winmm.dll". 
+"Ladder.exe" (Win32). Загружено "C:\Users\Илья\source\repos\Ladder\Debug\zlibd1.dll". Символы загружены.
+"Ladder.exe" (Win32). Загружено "C:\Users\Илья\source\repos\Ladder\Debug\bz2d.dll". Символы загружены.
+"Ladder.exe" (Win32). Загружено "C:\Users\Илья\source\repos\Ladder\Debug\libpng16d.dll". Символы загружены.
+"Ladder.exe" (Win32). Загружено "C:\Users\Илья\source\repos\Ladder\Debug\brotlidec.dll". Символы загружены.
+"Ladder.exe" (Win32). Загружено "C:\Windows\SysWOW64\glu32.dll". 
+"Ladder.exe" (Win32). Загружено "C:\Users\Илья\source\repos\Ladder\Debug\brotlicommon.dll". Символы загружены.
+"Ladder.exe" (Win32). Загружено "C:\Windows\SysWOW64\imm32.dll". 
+Поток 0x1ec завершился с кодом 0 (0x0).
+"Ladder.exe" (Win32). Загружено "C:\Windows\SysWOW64\uxtheme.dll". 
+"Ladder.exe" (Win32). Загружено "C:\Windows\SysWOW64\msctf.dll". 
+"Ladder.exe" (Win32). Загружено "C:\Windows\SysWOW64\oleaut32.dll". 
+"Ladder.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel.appcore.dll". 
+"Ladder.exe" (Win32). Загружено "C:\Windows\SysWOW64\bcryptprimitives.dll". 
+"Ladder.exe" (Win32). Загружено "C:\Windows\SysWOW64\clbcatq.dll". 
+"Ladder.exe" (Win32). Загружено "C:\Windows\SysWOW64\AppXDeploymentClient.dll". 
+"Ladder.exe" (Win32). Выгружено "C:\Windows\SysWOW64\AppXDeploymentClient.dll"
+"Ladder.exe" (Win32). Загружено "C:\Windows\System32\DriverStore\FileRepository\u0364341.inf_amd64_c22b73fb0c3a32d3\B364190\atiglpxx.dll". 
+"Ladder.exe" (Win32). Загружено "C:\Windows\System32\DriverStore\FileRepository\u0364341.inf_amd64_c22b73fb0c3a32d3\B364190\atioglxx.dll". 
+"Ladder.exe" (Win32). Выгружено "C:\Windows\System32\DriverStore\FileRepository\u0364341.inf_amd64_c22b73fb0c3a32d3\B364190\atioglxx.dll"
+"Ladder.exe" (Win32). Загружено "C:\Windows\System32\DriverStore\FileRepository\u0364341.inf_amd64_c22b73fb0c3a32d3\B364190\atioglxx.dll". 
+"Ladder.exe" (Win32). Загружено "C:\Windows\SysWOW64\setupapi.dll". 
+"Ladder.exe" (Win32). Загружено "C:\Windows\SysWOW64\version.dll". 
+"Ladder.exe" (Win32). Загружено "C:\Windows\SysWOW64\cfgmgr32.dll". 
+"Ladder.exe" (Win32). Загружено "C:\Windows\SysWOW64\dxva2.dll". 
+"Ladder.exe" (Win32). Загружено "C:\Windows\SysWOW64\bcrypt.dll". 
+"Ladder.exe" (Win32). Загружено "C:\Windows\SysWOW64\ole32.dll". 
+"Ladder.exe" (Win32). Загружено "C:\Windows\SysWOW64\dwmapi.dll". 
+"Ladder.exe" (Win32). Загружено "C:\Windows\System32\DriverStore\FileRepository\u0364341.inf_amd64_c22b73fb0c3a32d3\B364190\atigktxx.dll". 
+"Ladder.exe" (Win32). Загружено "C:\Windows\SysWOW64\atiadlxy.dll". 
+"Ladder.exe" (Win32). Загружено "C:\Windows\SysWOW64\shell32.dll". 
+"Ladder.exe" (Win32). Загружено "C:\Windows\SysWOW64\psapi.dll". 
+"Ladder.exe" (Win32). Загружено "C:\Windows\SysWOW64\propsys.dll". 
+"Ladder.exe" (Win32). Загружено "C:\Windows\SysWOW64\devobj.dll". 
+"Ladder.exe" (Win32). Загружено "C:\Windows\SysWOW64\wintrust.dll". 
+"Ladder.exe" (Win32). Загружено "C:\Windows\SysWOW64\crypt32.dll". 
+"Ladder.exe" (Win32). Загружено "C:\Program Files (x86)\Common Files\Crypto Pro\AppCompat\cpcrypt.dll". 
+"Ladder.exe" (Win32). Загружено "C:\Program Files (x86)\Common Files\Crypto Pro\AppCompat\detoured.dll". 
+"Ladder.exe" (Win32). Загружено "C:\Windows\SysWOW64\msasn1.dll". 
+"Ladder.exe" (Win32). Загружено "C:\Windows\SysWOW64\windows.storage.dll". 
+"Ladder.exe" (Win32). Загружено "C:\Windows\SysWOW64\wldp.dll". 
+"Ladder.exe" (Win32). Загружено "C:\Windows\SysWOW64\SHCore.dll". 
+"Ladder.exe" (Win32). Загружено "C:\Windows\SysWOW64\shlwapi.dll". 
+"Ladder.exe" (Win32). Загружено "C:\Windows\SysWOW64\DXCore.dll". 
+"Ladder.exe" (Win32). Загружено "C:\Windows\SysWOW64\dinput8.dll". 
+"Ladder.exe" (Win32). Загружено "C:\Windows\SysWOW64\InputHost.dll". 
+"Ladder.exe" (Win32). Загружено "C:\Windows\SysWOW64\WinTypes.dll". 
+"Ladder.exe" (Win32). Загружено "C:\Windows\SysWOW64\CoreMessaging.dll". 
+"Ladder.exe" (Win32). Загружено "C:\Windows\SysWOW64\CoreUIComponents.dll". 
+"Ladder.exe" (Win32). Загружено "C:\Windows\SysWOW64\ws2_32.dll". 
+"Ladder.exe" (Win32). Загружено "C:\Windows\SysWOW64\ntmarta.dll". 
+"Ladder.exe" (Win32). Загружено "C:\Windows\SysWOW64\hid.dll". 
+"Ladder.exe" (Win32). Загружено "C:\Windows\SysWOW64\TextInputFramework.dll". 
+Поток 0x31d8 завершился с кодом 0 (0x0).
+Поток 0x2e44 завершился с кодом 0 (0x0).
+Поток 0x38d0 завершился с кодом 0 (0x0).
+Поток 0x2b54 завершился с кодом 0 (0x0).
+Поток 0x2e4c завершился с кодом 0 (0x0).
+Поток 0x35c0 завершился с кодом 0 (0x0).
+Программа "[2956] Ladder.exe" завершилась с кодом 0 (0x0).
